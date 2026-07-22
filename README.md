@@ -14,8 +14,6 @@ I  decided to embark on a mission to make my own mechanical keyboard from scratc
 
 > 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys.)
 
-The reason I decided to take up such a project was because I had the need for a keyboard since my laptop's keyboard was very faulty. The keyboards available at home were membrane keyboards which didn't function properly, and thus I wanted to get a mechanical keyboard for myself. At that moment, I felt creating my own mechanical keyboard will not only fix my need, it will also be a good learning opportunity.
-
 Future scope-
 
 > A keyboard using a touchscreen to for more efficiency
@@ -23,6 +21,8 @@ Future scope-
 > Wireless version using Pi Pico W.
 
 There are two main folders, 1 for the PCB and another for the CAD files for the case and the plate. 
+
+The reason I decided to take up such a project was because I had the need for a keyboard since my laptop's keyboard was very faulty. The keyboards available at home were membrane keyboards which didn't function properly, and thus I wanted to get a mechanical keyboard for myself. At that moment, I felt creating my own mechanical keyboard will not only fix my need, it will also be a good learning opportunity.
 
 Photos-
 <img width="1991" height="790" alt="image" src="https://github.com/user-attachments/assets/58b04f4f-22ac-4a95-b5d4-bcc58a706a4e" />
