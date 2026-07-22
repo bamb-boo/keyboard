@@ -14,6 +14,24 @@ I  decided to embark on a mission to make my own mechanical keyboard from scratc
 
 > 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys.)
 
+[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/pcb/bom-keyboard_kicad.csv)-
+
+PCB
+
+Diodes
+
+Case
+
+Plate
+
+Switches
+
+Keycaps
+
+Raspberry Pi Pico
+
+Nuts and bolts
+
 Future scope-
 
 > A keyboard using a touchscreen to for more efficiency
