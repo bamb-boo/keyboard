@@ -1,11 +1,17 @@
-"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
-"D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D41,D42,D43,D44,D45,D46,D47,D48,D49,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D60,D61,D62,D63,D64,D65,D66,D67,D69,D72,D73,D74,D75,D76,D77,D78,D79,D80,D81,D82,D84,D85,D86,D88,D90,D91,D92,D93,D94,D95,D96,D97,D104,D105","83","~","","","","Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp",""
-"SW1,SW2,SW3,SW4,SW5,SW6,SW7,SW8,SW9,SW10,SW11,SW12,SW13,SW14,SW15,SW16,SW17,SW18,SW19,SW20,SW21,SW22,SW23,SW24,SW25,SW26,SW27,SW28,SW29,SW31,SW33,SW34,SW35,SW36,SW37,SW38,SW39,SW40,SW41,SW42,SW43,SW44,SW46,SW48,SW49,SW50,SW51,SW52,SW53,SW54,SW55,SW56,SW57,SW58,SW60,SW62,SW63,SW64,SW65,SW66,SW67,SW68,SW69,SW70,SW71,SW73,SW79,SW80,SW81,SW82,SW83","71","SW_Push","","","","ScottoKeebs_MX:MX_PCB_1.00u","~"
-"SW30","1","SW_Push","","","","ScottoKeebs_MX:MX_PCB_2.00u","~"
-"SW32,SW45","2","SW_Push","","","","ScottoKeebs_MX:MX_PCB_1.50u","~"
-"SW47","1","SW_Push","","","","ScottoKeebs_MX:MX_PCB_1.75u","~"
-"SW59,SW61","2","SW_Push","","","","ScottoKeebs_MX:MX_PCB_2.25u","~"
-"SW72","1","SW_Push","","","","ScottoKeebs_MX:MX_PCB_2.75u","~"
-"SW74,SW75,SW76,SW77","4","SW_Push","","","","ScottoKeebs_MX:MX_PCB_1.25u","~"
-"SW78","1","SW_Push","","","","Stabilizers:Stabilizer_Cherry_MX_6.25u","~"
-"U1","1","Raspberry_Pi_Pico","","","","ScottoKeebs_MCU:Raspberry_Pi_Pico",""
+Component name,Details,Qty,Where to buy,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+Case,Nylon,1,printing-legion,,,Diode_THT:D_DO-35_SOD27_P3.81mm_Vertical_KathodeUp,
+Plate,Nylon,1,printing-legion,,,ScottoKeebs_MX:MX_PCB_1.00u,~
+Switches,Akko V3 Creamy Purple Pro,83,https://stackskb.com/store/akko-v3-creamy-purple-pro-switch-pack-of-45/?srsltid=AfmBOooB9nuAL8NUkWbRpJ7EF3wC-SDj-OtV86xvncoUzQ3ghMLCWIeDduM,,,ScottoKeebs_MX:MX_PCB_2.00u,~
+Keycaps,Color PBT,83 keycaps,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/colour-pbt-keycaps/,,,ScottoKeebs_MX:MX_PCB_1.50u,~
+M2 nuts and bolts,15 mm height,8,Local vendor,,,ScottoKeebs_MX:MX_PCB_1.75u,~
+Microcontroller,Raspberry Pi Pico,1,https://quartzcomponents.com/products/raspberry-pi-pico?variant=37945289801912&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooph4yAOKlaXOlzuqV4wVWYXD59shyxalMg0NoKKp0ef7S1frVsyPs,,,ScottoKeebs_MX:MX_PCB_2.25u,~
+Stabilizers,4 x 2u + 1 x 6u,5,https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213,,,ScottoKeebs_MX:MX_PCB_2.75u,~
+Diodes,1n4148,83,https://www.ktron.in/product/diode-1n4148-th/?srsltid=AfmBOoqAQ2ie58oqGB9lnuLERS_E0bK5uivKzd28IHgtJRiMNgbBmKTvdes,,,ScottoKeebs_MX:MX_PCB_1.25u,~
+,,,,,,Stabilizers:Stabilizer_Cherry_MX_6.25u,~
+,,,,,,ScottoKeebs_MCU:Raspberry_Pi_Pico,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,Placement,,,
