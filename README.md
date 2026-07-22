@@ -22,7 +22,7 @@ Future scope-
 
 There are two main folders, 1 for the PCB and another for the CAD files for the case and the plate. 
 
-The reason I decided to take up such a project was because I had the need for a keyboard since my laptop's keyboard was very faulty. The keyboards available at home were membrane keyboards which didn't function properly, and thus I wanted to get a mechanical keyboard for myself. At that moment, I felt creating my own mechanical keyboard will not only fix my need, it will also be a good learning opportunity.
+I had a faulty laptop keyboard, and wanted to get a mechanical keyboard. I felt creating my own mechanical keyboard will not only fix my need, but will also be a good learning opportunity.
 
 Photos-
 <img width="1991" height="790" alt="image" src="https://github.com/user-attachments/assets/58b04f4f-22ac-4a95-b5d4-bcc58a706a4e" />
