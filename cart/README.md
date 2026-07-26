@@ -5,7 +5,7 @@ pcb- ![cart](https://cdn.hackclub.com/019ef037-a5c0-7427-8b91-9a48183cc5d2/image
 
 case and plate- hack club printing legion
 
-[switches](https://stackskb.com/store/akko-v3-creamy-purple-pro-switch-pack-of-45/?srsltid=AfmBOooB9nuAL8NUkWbRpJ7EF3wC-SDj-OtV86xvncoUzQ3ghMLCWIeDduM)
+[switches](https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/)
 
 [keycaps](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/colour-pbt-keycaps/)
 
