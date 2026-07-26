@@ -1,7 +1,7 @@
 all components-
 
-
-pcb- ![cart](<img width="1611" height="568" alt="Screenshot 2026-07-26 152329" src="https://github.com/user-attachments/assets/98585290-7bb1-426c-ab68-23b42314cb95" />)
+pcb-
+<img width="1611" height="568" alt="Screenshot 2026-07-26 152329" src="https://github.com/user-attachments/assets/98585290-7bb1-426c-ab68-23b42314cb95" />
 
 case and plate- hack club printing legion
 
