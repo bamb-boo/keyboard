@@ -51,6 +51,7 @@ Photos-
 <img width="1074" height="402" alt="image" src="https://github.com/user-attachments/assets/63e0763a-c8b1-49e8-9323-9a572e5acece" />
 
 Build instructions-
+
 Solder the diodes to the designated holes in the pcb, with the diodes pointing dows.
 
 Solder the switches to the holes beside the diodes.
