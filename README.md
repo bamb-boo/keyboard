@@ -50,6 +50,18 @@ Photos-
 <img width="772" height="266" alt="image" src="https://github.com/user-attachments/assets/9562e222-a7a4-4aeb-ac46-baf9fb8c4f35" />
 <img width="1074" height="402" alt="image" src="https://github.com/user-attachments/assets/63e0763a-c8b1-49e8-9323-9a572e5acece" />
 
+Build instructions-
+Solder the diodes to the designated holes in the pcb, with the diodes pointing dows.
+
+Solder the switches to the holes beside the diodes.
+
+Attach the keycaps to the switches.
+
+Attach the pcb to the plate, ensuring the fit snugly.
+
+Bolt the plate to the case.
+
+Viola, you're done!
 
 
 Finally, I heartfully thank PCBWay for their sponsorship, which allowed me to experiment and become a creator. Their quality is very high and they offer a wide range of helpful services such as PCB manufacturing, 3D-printing and CNC machining. Visit PCBWay at [PCBWay](https://www.pcbway.com)
