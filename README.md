@@ -14,7 +14,7 @@ I  decided to embark on a mission to make my own mechanical keyboard from scratc
 
 > 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys.)
 
-[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/pcb/bom-keyboard_kicad.csv)-
+[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/cart/bom-keyboard_kicad.csv)-
 | Component name    | Details                          | Qty        | Where to buy                                                                                                                                                                                                                                                          | Cost (usd) |
 |-------------------|----------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Case              | Nylon                            | 1          | printing-legion                                                                                                                                                                                                                                                       | free       |
