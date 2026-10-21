@@ -12,7 +12,7 @@ This is a custom mechanical keyboard using a raspberry pi pico and really nice s
 
 > 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys.)
 
-[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/cart/bom-keyboard_kicad.csv)-
+[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/cart/README.md)-
 | Component name    | Details                          | Qty        | Bought from                                                                                                                                                                                                                                                          | Cost (usd) |
 |-------------------|----------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 | Case              | ABS                            | 1          | pcbway| free       |
