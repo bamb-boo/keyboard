@@ -1,7 +1,6 @@
 all components-
 
-pcb-
-<img width="1611" height="568" alt="Screenshot 2026-07-26 152329" src="https://github.com/user-attachments/assets/98585290-7bb1-426c-ab68-23b42314cb95" />
+pcb- 30
 
 case and plate- friend
 
