@@ -1,5 +1,6 @@
-This is a custom mechanical keyboard using a raspberry pi pico and really nice switches! I had a faulty laptop keyboard, and wanted to get a mechanical keyboard. I felt creating my own mechanical keyboard will not only fix my need, but will also be a good learning opportunity. And that is where this entire journey to build my own custom mechanical keyboard began!!
+# bamb-boo's mechanical keyboard!
 
+This is a custom mechanical keyboard using a raspberry pi pico and really nice switches!!
 
 ##### Features!
 
@@ -13,6 +14,9 @@ This is a custom mechanical keyboard using a raspberry pi pico and really nice s
 
 - 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys)
 
+##### Why I made it
+
+To be honest, I had a faulty laptop keyboard, and wanted to get a mechanical keyboard. Creating my own keyboard >>> buying a pre-made one, so I just decided to make one on a whim! ✨
 
 ##### Future scope-
 
@@ -47,27 +51,27 @@ I would REALLY love to make a-
 
 ##### Build instructions-
 
-Solder the diodes to the designated holes in the pcb, with the diodes pointing down.
+1. Solder the diodes to the designated holes in the pcb, with the diodes pointing down.
 
-Solder the pi pico using headers onto the pcb
+2. Solder the pi pico using headers onto the pcb
 
-Flash the firmware-
-  plug in the usb and connect it to a laptop.
-  Drop the .uf2 file 
+3. Flash the firmware-
+    plug in the usb and connect it to a laptop.
+    Drop the .uf2 file 
 
-Use [https://www.keyboardtester.com/tester.html](https://www.keyboardtester.com/tester.html) to test if all connections are correct- this mitigates the need to annoyingly verify if all connections are right later on
+4. Use [https://www.keyboardtester.com/tester.html](https://www.keyboardtester.com/tester.html) to test if all connections are correct- this mitigates the need to annoyingly verify if all connections are right later on
 
-Solder the switches to the holes beside the diodes.
+5. Solder the switches to the holes beside the diodes.
 
-Clip the stabilizers onto the pcb.
+6. Clip the stabilizers onto the pcb.
 
-Attach the keycaps to the switches.
+7. Attach the keycaps to the switches.
 
-Attach the pcb to the plate, ensuring the fit snugly.
+8. Attach the pcb to the plate, ensuring the fit snugly.
 
-Bolt the plate to the case using the screws.
+9. Bolt the plate to the case using the screws.
 
-Viola, you're done!
+10. Viola, you're done!
 
 Finally, I heartfully thank PCBWay for their sponsorship, which allowed me to experiment and become a creator. Their quality is very high and they offer a wide range of helpful services such as PCB manufacturing, 3D-printing and CNC machining. Visit PCBWay at [PCBWay](https://www.pcbway.com)
 ![PCBWay logo](https://images.squarespace-cdn.com/content/v1/59b037304c0dbfb092fbe894/1574266723216-3GI9YH3SC37PUJ0DMA9C/image-asset.png)
