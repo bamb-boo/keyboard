@@ -2,7 +2,7 @@
 
 This is a custom mechanical keyboard using a raspberry pi pico and really nice switches!!
 
-##### Features!
+### Features!
 
 - Has 83 keys (~75% keyboard)
 
@@ -14,11 +14,11 @@ This is a custom mechanical keyboard using a raspberry pi pico and really nice s
 
 - 1N4148 through-hole diodes to prevent ghosting (The matrix is a useful way of succinctly employing a limited number of IO pins for a large number of keys)
 
-##### Why I made it
+### Why I made it
 
 To be honest, I had a faulty laptop keyboard, and wanted to get a mechanical keyboard. Creating my own keyboard >>> buying a pre-made one, so I just decided to make one on a whim! ✨
 
-##### Future scope-
+### Future scope-
 
 I would REALLY love to make a-
 
@@ -27,7 +27,7 @@ I would REALLY love to make a-
 - Make a larger keyboard (because larger is always equal to better!)
 
 
-##### Photos-
+### Photos-
 
 <img width="839" height="346" alt="image" src="https://github.com/user-attachments/assets/c96cda9d-6473-421f-9c8e-dd984b5420d2" />
 
