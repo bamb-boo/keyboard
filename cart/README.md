@@ -1,15 +1,13 @@
-all components-
-
-pcb- 30
-
-case and plate- friend
-
-[switches](https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/)
-
-[keycaps](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/colour-pbt-keycaps/). alternative if not available- [https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/royal-kludge-blue-mix-keycaps/](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/royal-kludge-blue-mix-keycaps/)
-
-[stabilizers](https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213)
-
-microcontroller- raspberry pi pico
-
-[1n4148 diodes](https://www.ktron.in/product/diode-1n4148-th/?srsltid=AfmBOoqAQ2ie58oqGB9lnuLERS_E0bK5uivKzd28IHgtJRiMNgbBmKTvdes)
+[Bill of Materials](https://github.com/bamb-boo/keyboard/blob/main/cart/bom-keyboard_kicad.csv)-
+| Component name    | Details                          | Qty        | Bought from                                                                                                                                                                                                                                                          | Cost (usd) |
+|-------------------|----------------------------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| Case              | ABS                            | 1          | pcbway| 50       |
+| Plate             | PLA                            | 1          | pcbway| 30       |
+| PCB               | FR4                            | 1          | pcbway| 30       |
+| Switches          | Click Inc HP Switch (Pack of 10) | 9 packs    | https://stackskb.com/store/click-inc-hp-switch-pack-of-10-pre-order/ | 17         |
+| Keycaps           | Color PBT                        | 83 keycaps | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/colour-pbt-keycaps/| about 11   |
+| M2 nuts and bolts | 15 mm height                     | 8          | Local vendor| 1          |
+| Microcontroller   | Raspberry Pi Pico                | 1          | https://quartzcomponents.com/products/raspberry-pi-pico?variant=37945289801912&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooph4yAOKlaXOlzuqV4wVWYXD59shyxalMg0NoKKp0ef7S1frVsyPs | 3.5        |
+| Stabilizers       | 4 x 2u + 1 x 6u                  | 5          | https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213| 4          |
+| Diodes            | 1n4148                           | 83         | https://www.ktron.in/product/diode-1n4148-th/?srsltid=AfmBOoqAQ2ie58oqGB9lnuLERS_E0bK5uivKzd28IHgtJRiMNgbBmKTvdes| 0.6        |
+|Total              |                |154           |                 |  |
