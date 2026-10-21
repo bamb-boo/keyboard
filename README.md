@@ -29,7 +29,7 @@ I would REALLY love to make a-
 
 ### Photos-
 
-<img width="839" height="346" alt="image" src="https://github.com/user-attachments/assets/c96cda9d-6473-421f-9c8e-dd984b5420d2" />
+<img width="560" height="230" alt="image" src="https://github.com/user-attachments/assets/c96cda9d-6473-421f-9c8e-dd984b5420d2" />
 
 (looks kinda wonky because my laptop became incredibly slow, and it was trouble to get anything done let alone model in fusion 360.)
 
@@ -41,15 +41,15 @@ I would REALLY love to make a-
 
 (case+pcb)
 
-<img width="1074" height="402" alt="image" src="https://github.com/user-attachments/assets/63e0763a-c8b1-49e8-9323-9a572e5acece" />
+<img width="716" height="268" alt="image" src="https://github.com/user-attachments/assets/63e0763a-c8b1-49e8-9323-9a572e5acece" />
 
 (pcb)
 
-<img width="1861" height="515" alt="image" src="https://github.com/user-attachments/assets/20344622-14e4-4cd2-9a9f-9516e02955ce" />
+<img width="1240" height="343" alt="image" src="https://github.com/user-attachments/assets/20344622-14e4-4cd2-9a9f-9516e02955ce" />
 
 (schematic)
 
-##### Build instructions-
+### Build instructions-
 
 1. Solder the diodes to the designated holes in the pcb, with the diodes pointing down.
 
