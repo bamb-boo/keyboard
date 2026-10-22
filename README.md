@@ -1,6 +1,6 @@
 # bamb-boo's mechanical keyboard!
 
-This is a custom mechanical keyboard using a raspberry pi pico and really nice switches!!
+This is a custom mechanical keyboard using a raspberry pi pico and really nice switches!! It uses a 16x6 matrix and has 83 keys, which is the best for my personal preference!
 
 ### Features!
 
