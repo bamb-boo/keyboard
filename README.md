@@ -1,6 +1,6 @@
 # bamb-boo's mechanical keyboard!
 
-This is a custom mechanical keyboard using a raspberry pi pico and really nice switches!! It uses a 16x6 matrix and has 83 keys, which is the best for my personal preference!
+This is a custom wired mechanical keyboard using a raspberry pi pico and really nice switches!! The keyboard also has a _negative_ tilt, which is better for your wrists (carpal tunnel syndrome). It uses a 16x6 matrix and has 83 keys, which is the best for my personal preference! 
 
 ### Features!
 
