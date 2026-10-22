@@ -2,6 +2,8 @@
 
 This is a custom wired mechanical keyboard using a raspberry pi pico and really nice switches!! The keyboard also has a _negative_ tilt, which is better for your wrists (carpal tunnel syndrome). It uses a 16x6 matrix and has 83 keys, which is the best for my personal preference! 
 
+It can act as an alternative to other popular keyboards like the Aula F75 or similar keyboards due to its more ergonomic and hand-friendly design!
+
 ### Features!
 
 - Has 83 keys (~75% keyboard)
