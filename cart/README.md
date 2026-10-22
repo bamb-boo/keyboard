@@ -10,4 +10,4 @@ Bill of Materials-
 | Microcontroller   | Raspberry Pi Pico                | 1          | https://quartzcomponents.com/products/raspberry-pi-pico?variant=37945289801912&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOooph4yAOKlaXOlzuqV4wVWYXD59shyxalMg0NoKKp0ef7S1frVsyPs | 3.5        |
 | Stabilizers       | 4 x 2u + 1 x 6u                  | 5          | https://www.genesispc.in/products/durock-plate-mount-stabilizers-6-25u-4x2u-black?variant=43129560924213| 4          |
 | Diodes            | 1n4148                           | 83         | https://www.ktron.in/product/diode-1n4148-th/?srsltid=AfmBOoqAQ2ie58oqGB9lnuLERS_E0bK5uivKzd28IHgtJRiMNgbBmKTvdes| 0.6        |
-|Total              |                |154           |                 |  |
+|Total              |                |148           |                 |  |
