@@ -8,7 +8,7 @@ It can act as an alternative to other popular keyboards like the Aula F75 or sim
 
 - Has 83 keys (~75% keyboard)
 
-- Non-hotswappable Akko V3 Creamy Purple Pro Switches (hotswappable will increase cost and design time, so kept it simple ;] )
+- Non-hotswappable Click Inc HP Switches (hotswappable will increase cost and design time, so kept it simple ;] )
 
 - Runs on a Raspberry Pi Pico due to its powerful chip and the number of IO pins (26 pins)
 
